@@ -28,3 +28,5 @@ Welcome to quiz game, a simple C-language console application designed to test a
 - C compiler (e.g., GCC)
 
 - Compatible with Windows (uses system("cls") and system("color"))
+# Acknowledgements
+This project is a basic yet engaging implementation to help beginners in C programming learn about conditionals, functions, user input, and more.
