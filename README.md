@@ -13,18 +13,18 @@ Welcome to quiz gaMe, a simple C-language console application designed to test a
 
 - Dynamic rating system based on performance
 # Instructions
-The game begins with a welcome message and menu.
+- The game begins with a welcome message and menu.
 
-Choose your difficulty level.
+- Choose your difficulty level.
 
-Each level consists of 5 questions.
+- Each level consists of 5 questions.
 
-Answers are entered by selecting an option number (1 to 4).
+- Answers are entered by selecting an option number (1 to 4).
 
-Scores are calculated based on correct and incorrect answers.
+- Scores are calculated based on correct and incorrect answers.
 
-A performance rating is displayed at the end.
+- A performance rating is displayed at the end.
 # Requirements
-C compiler (e.g., GCC)
+- C compiler (e.g., GCC)
 
-Compatible with Windows (uses system("cls") and system("color"))
+- Compatible with Windows (uses system("cls") and system("color"))
