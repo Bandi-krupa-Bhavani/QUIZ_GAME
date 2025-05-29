@@ -1,5 +1,5 @@
 # QUIZ-GAME
-Welcome to quiz gaMe, a simple C-language console application designed to test and enhance your general knowledge and programming concepts. It offers a fun and interactive quiz experience across three difficulty levels: Easy, Medium, and Hard.
+Welcome to quiz game, a simple C-language console application designed to test and enhance your general knowledge and programming concepts. It offers a fun and interactive quiz experience across three difficulty levels: Easy, Medium, and Hard.
 # Features
 - User-friendly terminal interface
 
